@@ -3,4 +3,4 @@ Best code ever, shell emulator, which uses zip files as fs.
 
 ### Production use only
 
-![It looks kinda like this](media/introduction.gif)
+<img src="media/introduction.gif" alt="It looks kinda like this" width="750" height="650"/>
